@@ -28,8 +28,6 @@ The network is divided into **5 OSPF Areas** to localize routing updates and min
 ## 📸 Topology Screenshot
 ![Network Topology](./network-topology.png)
 
-> 💡 *Note: Make sure to rename your uploaded image to `network-topology.png` or change the filename in the brackets above to match your image file name exactly so it displays properly.*
-
 ---
 
 ## 🚀 How to Run the Project
